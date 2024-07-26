@@ -1,0 +1,134 @@
+2024-07-22 09:05:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:05:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:05:57 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 09:05:57 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 09:06:01 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 09:06:01 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 09:06:08 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 09:06:08 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 09:06:23 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 09:06:23 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 09:06:26 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 09:07:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\test-output\testng-failed.xml"
+2024-07-22 09:07:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\test-output\testng-failed.xml
+
+2024-07-22 09:07:32 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 09:07:32 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 09:07:35 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 09:07:40 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 09:17:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:17:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:17:22 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 09:17:22 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 09:17:25 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 09:17:25 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 09:17:33 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 09:17:33 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 09:17:49 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 09:17:50 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 09:17:52 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 09:17:58 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 09:21:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:21:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:22:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:22:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:24:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:24:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:24:59 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:25:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:27:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:27:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:28:01 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 09:28:01 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 09:28:05 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 09:28:05 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 09:28:13 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 09:28:13 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 09:28:28 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 09:28:28 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 09:28:31 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 09:28:37 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 09:29:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:29:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:34:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:34:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:35:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:35:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:38:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:38:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:39:13 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 09:39:13 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 09:39:18 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 09:39:18 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 09:39:26 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 09:39:26 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 09:39:50 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 09:39:50 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 09:39:53 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 09:39:59 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 09:43:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 09:43:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml
+
+2024-07-22 09:43:59 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 09:44:00 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 09:44:03 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 09:44:03 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 09:44:12 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 09:44:12 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 09:44:39 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 09:44:40 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 09:44:42 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 09:44:48 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 13:17:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 13:17:57 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 13:17:57 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 13:18:00 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 13:18:00 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 13:18:07 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 13:18:07 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 13:18:18 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 13:18:18 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 13:18:21 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 13:18:26 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 14:36:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 14:36:58 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 14:36:58 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 14:37:01 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 14:37:01 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 14:37:07 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 14:37:07 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
+2024-07-22 14:37:22 INFO  tc_002_LoginTest:15 - **** Starting tc_002_LoginTest ****
+2024-07-22 14:37:22 INFO  tc_002_LoginTest:20 - Clicked on MyAccount
+2024-07-22 14:37:25 INFO  tc_002_LoginTest:23 - Clicked on Login
+2024-07-22 14:37:30 INFO  tc_002_LoginTest:37 - ****tc_002_LoginTest Finished*****
+2024-07-22 14:38:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\NPIDDE\eclipse-workspace\openCart17july24\master.xml"
+2024-07-22 14:38:22 INFO  tc_001_AccountRegistrationTest:15 - *** Starting tc_001_AccountRegistrationTest ***
+2024-07-22 14:38:22 INFO  tc_001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-22 14:38:25 INFO  tc_001_AccountRegistrationTest:23 - Clicked on Register Link
+2024-07-22 14:38:25 INFO  tc_001_AccountRegistrationTest:26 - Providing customer details
+2024-07-22 14:38:31 INFO  tc_001_AccountRegistrationTest:43 - Validating expected method
+2024-07-22 14:38:31 INFO  tc_001_AccountRegistrationTest:59 - *** Finished tc_001_AccountRegistrationTest ***
